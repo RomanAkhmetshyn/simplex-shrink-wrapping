@@ -16,3 +16,6 @@ I'm no professional in gradient descent or linear algebra. I could not find any 
 
 ### Reference
 [1] - Daniel R. Fuhrmann, "Simplex shrink-wrap algorithm," Proc. SPIE 3718, Automatic Target Recognition IX, (24 August 1999); https://doi.org/10.1117/12.359990
+
+
+![alt text](https://github.com/RomanAkhmetshyn/simplex-shrink-wrapping/blob/main/example.png?raw=true)
